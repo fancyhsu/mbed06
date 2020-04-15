@@ -63,7 +63,7 @@ int main() {
 
    pc.baud(115200);
 
-   uLCD.reset();
+   //uLCD.reset();
 
    uint8_t who_am_i, data[2], res[6];
 
